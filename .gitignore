@@ -1,0 +1,8 @@
+# secrets
+.env
+*.cnf
+# your real bank exports never go to GitHub
+data/private/
+# Excel lock/temp files
+~$*.xlsx
+*.tmp
